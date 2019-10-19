@@ -14,7 +14,7 @@ Built using [Gatsby](https://github.com/gatsbyjs/gatsby) and [Gatsby-starter-blo
 
 1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into the repository and start it up.
 
     ```shell
     cd aaron-blog/
