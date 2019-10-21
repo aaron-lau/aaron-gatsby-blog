@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 date: "2019-10-19"
-description: "Inaugural  Blog Post"
+description: "Inaugural  Blog Post. ~2 minute read"
 ---
 
 Welcome to my blog site! I plan to use these blogs as a place for writing rants, thoughts, reviews, experiences, notes, and just about anything that comes to mind. Stay tuned!
